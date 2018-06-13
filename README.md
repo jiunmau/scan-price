@@ -1,2 +1,2 @@
 # scan-price
-scan anything
+
